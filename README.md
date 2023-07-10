@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on: 
-   - *[MU-Qcom](https://github.com/Robotix22/MU-Qcom) - UEFI Bootloader to boot Windows / Linux on your Device.*
+   - *[MU-Qcom](https://github.com/Robotix22/MU-Qcom) - UEFI Bootloader for Qualcomm Device to boot Windows or Linux.*
+   - *[EDK2-Tegra](https://github.com/Robotix22/EDK2-Tegra) - UEFI Bootloader for Tegra Devices to boot Windows or Linux.*
    - *[linux](https://github.com/Robotix22/linux) - Linux Mainline for Devices from MU-Qcom*
 
 - 📫 How to reach me: 
